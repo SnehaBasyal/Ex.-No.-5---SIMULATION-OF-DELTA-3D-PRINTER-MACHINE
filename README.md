@@ -31,8 +31,57 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Assembly of Delta printer
+
+### Base :
+The foundation of the printer, typically made of sturdy materials such as metal or plastic.
+
+### Holder :
+A part that holds the linear rails and/or motor in place.
+
+### Rod :
+vertical rails that the printer's effector (the part that moves around to print) travels up and down.
+
+### Top cover :
+A cover that goes over the top of the printer to protect it from dust and debris.
+
+### Top cover frame :
+A frame that supports the top cover.
+
+### Linear rail :
+A type of guide rail that provides smooth, precise movement for the printer's effector.
+
+### Motor :
+A motor that provides the movement for the printer's effector, often using belts or pulleys to transfer the motion.
+
+### Bed :
+The platform on which the printer creates the printed object.
+
+### Slide with connector :
+A connector that attaches the bed to the printer's frame.
+
+### Connecting Rods :
+Rods that connect the printer's effector to the bed, allowing it to move up and down.
+
+### Extruder :
+The part of the printer that melts and deposits the filament used to create the printed object.
+
+### Pins :
+Small pins used to secure various parts of the printer together.
+
+### Motor with gear :
+A motor that has a gear attached to it, often used to drive the printer's linear rails.
+
+### LCD : 
+A display screen that allows the user to interact with the printer, typically used to select and control print settings.
+<br>
+<br>
+
+## Playing with Axes
+![Ex.No.5-SIMULATION-OF-DELTA-3D-PRINTER-MACHINE](empd52.png)
+
+### Name: Sneha Basyal M
+### Register Number: 212222240101
 
 ## Result: 
 ### Thus the simulation on construction of delta 3D printer is completed & movement of axis along X, Y, & Z has been studied.
